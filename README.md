@@ -1,2 +1,5 @@
-# PractiquesEDD
-Repositori per a les pràctiques d'EDD 
+#Práctica de GitHub 
+
+Repositorio de prácticas para la assignatura de EDD
+
+Incluye a continuación tu nombre y apellidos:
